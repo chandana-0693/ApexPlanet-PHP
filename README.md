@@ -1,2 +1,2 @@
-# ApexPlanet-PHP
-A web-based application developed during my internship at ApexPlanet, focusing on backend development using PHP and MySQL.
+# My PHP App
+This is a basic PHP project setup with Git version control.
